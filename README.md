@@ -33,7 +33,7 @@ It's a framework for:
 Misinformation travels faster than reflection.  
 We're building Rhymes to:
 
-- Protect language from weaponization
+- Protect language from weaponisation
 - Support public thinkers, educators, and builders
 - Teach young people to hear and speak with care
 - Create tools for collective memory and media literacy
@@ -56,7 +56,7 @@ We're building Rhymes to:
 - Engineers who care about truth, trust, and transparency
 - Writers and educators who want tools to think out loud, together
 - Students learning to question what they hear-and how they respond
-- Communities building alternatives to centralized knowledge systems
+- Communities building alternatives to centralised knowledge systems
 
 ---
 
